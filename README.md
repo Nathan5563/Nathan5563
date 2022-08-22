@@ -8,8 +8,8 @@ I'm a high school student, part-time game developer, and hobbyist web developer
 * 🖥️  See my portfolio at [my website (work in progress)](http://#.com)
 * ✉️  You can contact me at [ndawit611@gmail.com](mailto:ndawit611@gmail.com)
 * 🚀  I'm currently working on [Star Sailors, an open-source dApp powered by citizen science and the Unity game engine](http://github.com/Signal-K/Unity-Demo)
-* 🧠  I'm learning ReactJS, Laravel, mySQL, C# and always improving my CSS skills
-* 🤝  I'm open to collaborating on front-end web development projects
+* 👾  I'm learning ReactJS, Laravel, mySQL, C# and always improving my CSS skills
+* 🤖  I'm open to collaborating on front-end web development projects
 * ⚡  I'm interested in learning how to build mobile applications/games
 
 <a href="https://www.twitter.com/nathanabebe_" target="_blank" rel="noreferrer"><img
