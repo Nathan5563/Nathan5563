@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h1>Hi 👋, I'm Nathan!</h1>
+<h3>A passionate software developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [Star Sailors](https://starsailors.space)
 
@@ -33,8 +33,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan5563&show_icons=true&locale=en&layout=compact" alt="nathan5563" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan5563&show_icons=true&locale=en" alt="nathan5563" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathan5563&" alt="nathan5563" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan5563&show_icons=true&locale=en" alt="nathan5563" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nathan5563&" alt="nathan5563" />
+</p>
