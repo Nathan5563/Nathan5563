@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Star Sailors](https://starsailors.space)
 
-- 🛠️ I'm also building a **weather app**
+- 🛠️ I'm also building a **Yu-Gi-Oh! companion**
 
 - 🌱 I’m currently learning **ReactJS**
 
