@@ -1,5 +1,7 @@
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan5563&theme=radical" alt="nathan5563" />
+</p>
 <h1>Hi 👋, I'm Nathan!</h1>
-<h3>A passionate software developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [Star Sailors](https://starsailors.space)
 
@@ -33,9 +35,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan5563" alt="nathan5563" />
-</p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathan5563&show_icons=true&locale=en" alt="nathan5563" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nathan5563&theme=radical&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan5563&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
