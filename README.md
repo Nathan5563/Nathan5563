@@ -35,9 +35,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nathan5563&theme=transparent&include_all_commits=false" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan5563&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
+</p>
