@@ -37,5 +37,7 @@
 
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nathan5563&theme=transparent&include_all_commits=false" />
+</p>
+<p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathan5563&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </p>
