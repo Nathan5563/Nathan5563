@@ -38,7 +38,7 @@
   <img height=200 align="center" src="https://github-readme-stats-eta-self-67.vercel.app/api/top-langs?username=nathan5563&layout=compact&langs_count=8&theme=transparent" />
 </p>
 
-<h3 align="left">My Github Stats</h3>
+<h3 align="left">My Github Stats:</h3>
 <p>
   <img height=200 align="center" src="https://github-readme-stats-eta-self-67.vercel.app/api?username=nathan5563&theme=transparent&include_all_commits=true" />
 </p>
