@@ -9,7 +9,7 @@
 | Currently, I'm... | In 2024, I plan to... |
 | ----------------- | --------------------- |
 | 🔭 Working on [Star Sailors](https://starsailors.space) | ✔️ Code every day |
-| 🛠️ Writing a **programming language** | 🔬 Develop **website clones** |
+| 🛠️ Building a **programming language** | 🔬 Develop **website clones** |
 | 🌱 Learning **ReactJS** | ⏳ Learn and practice **C, C#, NodeJS, ExpressJS, MongoDB, and Tailwind** |
 
 </div>
