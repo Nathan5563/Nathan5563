@@ -31,7 +31,7 @@
 </p>
 
 <p>
-  <img height=200 align="center" src="https://github-readme-stats-eta-self-67.vercel.app/api/top-langs?username=nathan5563&layout=compact&langs_count=8&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats-eta-self-67.vercel.app/api/top-langs?username=nathan5563&layout=compact&langs_count=8&theme=transparent&exclude_repo=college-consultancy" />
 </p>
 
 <h3 align="left">My Github Stats:</h3>
