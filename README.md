@@ -1,6 +1,3 @@
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats-kohl-ten.vercel.app?user=Nathan5563&theme=transparent" alt="nathan5563" />
-</p>
 <h1 align="center">Hi 👋, I'm Nathan!</h1>
 <h3 align="center">An aspiring full-stack developer from Ethiopia</h3>
 
