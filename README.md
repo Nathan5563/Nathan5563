@@ -5,7 +5,7 @@
   
 | Currently, I'm... | In 2024, I plan to... |
 | ----------------- | --------------------- |
-| 🔭 Working on [Star Sailors](https://starsailors.space) | ✔️ Code every day |
+| 🔭 Working on [hackfish](https://github.com/Nathan5563/hackfish) | ✔️ Code every day |
 | 🛠️ Building a **programming language** | 🔬 Develop **website clones** |
 | 🌱 Learning **ReactJS** | ⏳ Learn and practice **C, C#, NodeJS, ExpressJS, MongoDB, and Tailwind** |
 
