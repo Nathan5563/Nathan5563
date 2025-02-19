@@ -19,7 +19,7 @@
   </style>
 
   <!-- Background rectangle -->
-  <rect width="1200" height="530" fill="#f6f8fa" rx="15"/>
+  <rect width="1200" height="500" fill="#f6f8fa" rx="15"/>
 
   <!-- ASCII art block -->
   <text x="15" y="30" fill="#24292f" class="ascii">
