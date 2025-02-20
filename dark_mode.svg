@@ -26,22 +26,22 @@
     <tspan x="15" y="30"> _________________________________________________________ </tspan>
     <tspan x="15" y="50">||-------------------------------------------------------||</tspan>
     <tspan x="15" y="70">||.--.    .-._                        .----.             ||</tspan>
-    <tspan x="15" y="90">|||==|____| |H|___            .---.___|""""|_____.--.___ ||</tspan>
+    <tspan x="15" y="90">|||==|____| |.|___            .---.___|""""|_____.--.___ ||</tspan>
     <tspan x="15" y="110">|||  |====| | |xxx|_          |+++|=-=|_  _|-=+=-|==|---|||</tspan>
-    <tspan x="15" y="130">|||==|    | | |   | \         |   |   |_\/_|Black|  | ^ |||</tspan>
-    <tspan x="15" y="150">|||  |    | | |   |\ \   .--. |   |=-=|_/\_|-=+=-|  | ^ |||</tspan>
-    <tspan x="15" y="170">|||  |    | | |   |_\ \_( oo )|   |   |    |Magic|  | ^ |||</tspan>
-    <tspan x="15" y="190">|||==|====| |H|xxx|  \ \ |''| |+++|=-=|""""|-=+=-|==|---|||</tspan>
-    <tspan x="15" y="210">||`--^----'-^-^---'   `-' ""  '---^---^----^-----^--^---^||</tspan>
+    <tspan x="15" y="130">|||==|    | | |   | \         |   |   |_\/_|     |  | ^ |||</tspan>
+    <tspan x="15" y="150">|||  |    | | |   |\ \        |   |=-=|_/\_|-=+=-|  | ^ |||</tspan>
+    <tspan x="15" y="170">|||  |    | | |   |_\ \_      |   |   |    |     |  | ^ |||</tspan>
+    <tspan x="15" y="190">|||==|====| |.|xxx|  \ \      |+++|=-=|""""|-=+=-|==|---|||</tspan>
+    <tspan x="15" y="210">||`--^----'-^-^---'   `-'     '---^---^----^-----^--^---^||</tspan>
     <tspan x="15" y="230">||-------------------------------------------------------||</tspan>
     <tspan x="15" y="250">||-------------------------------------------------------||</tspan>
     <tspan x="15" y="270">||               ___                   .-.__.-----. .---.||</tspan>
     <tspan x="15" y="290">||              |===| .---.   __   .---| |XX|&lt;(*)&gt;|_|^^^|||</tspan>
-    <tspan x="15" y="310">||         ,  /(|   |_|III|__|''|__|:x:|=|  |     |=| Q |||</tspan>
-    <tspan x="15" y="330">||      _a'{ / (|===|+|   |++|  |==|   | |  |     | | R |||</tspan>
-    <tspan x="15" y="350">||      '/\\/ _(|===|-|   |  |''|  |:x:|=|  |     | | Y |||</tspan>
-    <tspan x="15" y="370">||_____  -\{___(|   |-|   |  |  |  |   | |  |     | | Z |||</tspan>
-    <tspan x="15" y="390">||       _(____)|===|+|[I]|DK|''|==|:x:|=|XX|&lt;(*)&gt;|=|^^^|||</tspan>
+    <tspan x="15" y="310">||         ,  /(|   |_|III|__|''|__|:x:|=|  |     |=| * |||</tspan>
+    <tspan x="15" y="330">||      _a'{ / (|===|+|   |++|  |==|   | |  |     | |3/0|||</tspan>
+    <tspan x="15" y="350">||      '/\\/ _(|===|-|   |  |''|  |:x:|=|  |     | | * |||</tspan>
+    <tspan x="15" y="370">||_____  -\{___(|   |-|   |  |  |  |   | |  |     | | * |||</tspan>
+    <tspan x="15" y="390">||       _(____)|===|+|[n]|  |''|==|:x:|=|XX|&lt;(*)&gt;|=|^^^|||</tspan>
     <tspan x="15" y="410">||              `---^-^---^--^--'--^---^-^--^-----^-^---^||</tspan>
     <tspan x="15" y="430">||-------------------------------------------------------||</tspan>
     <tspan x="15" y="450">||_______________________________________________________||</tspan>
@@ -62,7 +62,7 @@
     <tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan>
     <tspan x="600" y="280">- Contact</tspan> -——————————————————————————————————————————————-—-
     <tspan x="600" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">ndawit611@gmail.com</tspan>
-    <tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">School</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">nathan.abebe@yale.edu</tspan>
-    <tspan x="600" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">nathan5563</tspan>
+    <tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">School</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">nathan.abebe@yale.edu</tspan>
+    <tspan x="600" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">nathan5563</tspan>
   </text>
 </svg>
